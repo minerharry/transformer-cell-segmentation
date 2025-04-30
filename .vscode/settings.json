@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\miner\\Documents\\Github\\cell-segmentation"
+    ],
+    "python.analysis.typeCheckingMode": "standard"
+}
