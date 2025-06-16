@@ -1,0 +1,1 @@
+set PYTHONPATH=C:\Users\miner\OneDrive - University of North Carolina at Chapel Hill\Senior Year\Spring 2025\Comp 590\K-Net

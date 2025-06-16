@@ -1,0 +1,39 @@
+segformer
+-optotaxis
+--3stack: 300+?
+--nostack: 100+
+
+-optotaxis_half:
+--3stack: in progress
+--nostack: in progress
+
+-optotaxis_quarter:
+--3stack: in progress
+--nostack: in progress
+
+-stardist_10x:
+--3stack: debug?
+--nostack: not started
+
+-stardist_20x:
+--3stack: not started
+--nostack: not started
+
+
+seqformer
+-optotaxis: N/A
+
+-stardist_10x:
+--nostack: not started
+--3stack: not started
+--video_3: not started
+
+-stardist_20x:
+--nostack: not started
+--3stack: not started
+--video_3: not started
+--video_6: not started
+
+
+YOLO:
+--tbd

@@ -1,0 +1,16 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Users\\miner\\Documents\\Github\\cell-segmentation",
+        "C:\\Users\\miner\\Documents\\Github\\SeqFormer"
+    ],
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.autoImportCompletions": false,
+    "python.analysis.include": [
+        "from train_custom import train_custom"
+    ],
+    "python.autoComplete.extraPaths": [
+
+        "C:\\Users\\miner\\Documents\\Github\\cell-segmentation",
+        "C:\\Users\\miner\\Documents\\Github\\SeqFormer"
+    ]
+}

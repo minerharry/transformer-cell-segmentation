@@ -1,0 +1,11 @@
+stardist_20x 3stack_split: 0.8407052846462807
+stardist_10x 3stack_split: 0.8667393676615656
+optotaxis    3stack_split: 0.7832683755487689
+optotaxis_half 3stack_split: 0.7407636229536372
+optotaxis_quarter 3stack_split: 0.6068313871893124
+
+stardist_20x nostack_split: 0.8828675296763612
+stardist_10x nostack_split: 0.8162442880453512
+optotaxis    nostack_split: 0.7850724830611873
+optotaxis_half nostack_split: 0.7512109293673
+optotaxis_quarter nostack_split: 0.5523865091671979

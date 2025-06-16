@@ -1,0 +1,28 @@
+2025-05-04 13:49:59,031 - root - INFO - stardist_20x nostack_split segformer, 6 masks
+2025-05-04 13:49:59,032 - root - INFO - mean IoU: 0.8828675296763612
+2025-05-04 13:50:05,760 - root - INFO - stardist_20x nostack_split segformer, 6 masks
+2025-05-04 13:50:05,760 - root - INFO - mean IoU: 0.8828675296763612
+2025-05-04 13:50:12,812 - root - INFO - stardist_20x nostack_split segformer, 6 masks
+2025-05-04 13:50:12,813 - root - INFO - mean IoU: 0.8828675296763612
+2025-05-04 13:50:19,705 - root - INFO - stardist_20x nostack_split segformer, 6 masks
+2025-05-04 13:50:19,705 - root - INFO - mean IoU: 0.8828675296763612
+2025-05-04 13:51:35,087 - root - INFO - optotaxis nostack_split segformer, 21 masks
+2025-05-04 13:51:35,087 - root - INFO - mean IoU: 0.7850724830611873
+2025-05-04 13:51:46,449 - root - INFO - optotaxis_half nostack_split segformer, 21 masks
+2025-05-04 13:51:46,449 - root - INFO - mean IoU: 0.7512109293673
+2025-05-04 13:51:58,373 - root - INFO - optotaxis_quarter nostack_split segformer, 21 masks
+2025-05-04 13:51:58,374 - root - INFO - mean IoU: 0.5523865091671979
+2025-05-04 13:52:07,223 - root - INFO - stardist_10x nostack_split segformer, 12 masks
+2025-05-04 13:52:07,224 - root - INFO - mean IoU: 0.8162442880453512
+2025-05-04 13:52:14,111 - root - INFO - stardist_20x nostack_split segformer, 6 masks
+2025-05-04 13:52:14,111 - root - INFO - mean IoU: 0.8828675296763612
+2025-05-04 14:34:09,554 - root - INFO - optotaxis 3stack_split segformer, 21 masks
+2025-05-04 14:34:09,554 - root - INFO - mean IoU: 0.7832683755487689
+2025-05-04 14:34:27,107 - root - INFO - optotaxis_half 3stack_split segformer, 21 masks
+2025-05-04 14:34:27,109 - root - INFO - mean IoU: 0.7407636229536372
+2025-05-04 14:34:48,135 - root - INFO - optotaxis_quarter 3stack_split segformer, 21 masks
+2025-05-04 14:34:48,136 - root - INFO - mean IoU: 0.6068313871893124
+2025-05-04 14:34:56,572 - root - INFO - stardist_10x 3stack_split segformer, 4 masks
+2025-05-04 14:34:56,573 - root - INFO - mean IoU: 0.8667393676615656
+2025-05-04 14:35:05,454 - root - INFO - stardist_20x 3stack_split segformer, 4 masks
+2025-05-04 14:35:05,455 - root - INFO - mean IoU: 0.8407052846462807
